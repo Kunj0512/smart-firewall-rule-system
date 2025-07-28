@@ -59,7 +59,7 @@ streamlit run ui/app.py
 ---
 
 ## 🎥 Walkthrough Video
-> [Watch on YouTube](https://youtube.com/YOUR_VIDEO_LINK)  
+> [Watch on YouTube](https://youtu.be/14PEPhKRq9A)  
 > *(Max 10 min, shows code and app demo)*
 
 ---
